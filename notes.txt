@@ -1,0 +1,2 @@
+To build(should be executed within the virtual env) => python setup.py bdist_wheel
+To install local repository(shouldn't be executed within the virtual env) => pip install ./dist/system_connector_package-1.0.0-py3-none-any.whl
